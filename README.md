@@ -16,7 +16,7 @@ Overall, I'm proud of the work I did on UPbnb and I hope you enjoy using it as m
 <p align="center">
 <img height="900" width="390" alt="Página inicial" src="https://user-images.githubusercontent.com/87763388/223850596-d1da4d87-d0cd-45e7-bf7b-f018da781818.png">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img height="900" width="390" alt="Catálogo" src="https://user-images.githubusercontent.com/87763388/223850608-16fbe27c-6329-42e8-a9b5-40f24a97d764.png">
+<img height="900" width="390" alt="Favoritoss" src="https://user-images.githubusercontent.com/87763388/223854171-52583713-340c-4f02-b0d8-85d88f40dad2.png">
 </p>
 
 <p align="center">
