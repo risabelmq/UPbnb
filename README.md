@@ -1,6 +1,6 @@
 # UPbnb
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/87763388/223849925-e0363f20-0022-4736-991e-f059d4e770d7.png" alt="your_alt_text" height="30">
+  <img src="https://user-images.githubusercontent.com/87763388/223849925-e0363f20-0022-4736-991e-f059d4e770d7.png" alt="your_alt_text" height="150">
 </p>
 UPbnb is a web application that provides a luxurious house rental service, inspired by Airbnb. 
 
