@@ -20,7 +20,7 @@ Overall, I'm proud of the work I did on UPbnb and I hope you enjoy using it as m
 </p>
 
 <p align="center">
-<img  height="1500" width="390" alt="Detalhe2" src="https://user-images.githubusercontent.com/87763388/223850603-09421384-d3fb-4df3-be48-4e290bef00ce.png">
+<img style="vertical-align: top;" height="1500" width="390" alt="Detalhe2" src="https://user-images.githubusercontent.com/87763388/223850603-09421384-d3fb-4df3-be48-4e290bef00ce.png">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img height="900" width="390" alt="Catálogo" src="https://user-images.githubusercontent.com/87763388/223853016-84a1f395-b59e-4783-9b4b-42c215adf076.png">
+  <img style="vertical-align: top;" height="900" width="390" alt="Catálogo" src="https://user-images.githubusercontent.com/87763388/223853016-84a1f395-b59e-4783-9b4b-42c215adf076.png">
 </p>
