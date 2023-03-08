@@ -1,0 +1,40 @@
+.App {
+  .navBar {
+    background-color: rgba(255, 255, 255, 0.65);
+    backdrop-filter: blur(3px);
+    position: fixed; /* set the navbar to fixed position */
+    bottom: 0; /* position the navbar at the bottom of the page */
+    width: 100%; /* full width */
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #004F63;
+    left: 0;
+    right: 0;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-around;
+
+    a {
+      display: flex;
+      color: #004F63;
+      padding: 1.5rem 0rem;
+    }
+
+    &.active, &:hover {
+      color: #4687c2;
+    }
+
+    .logo {
+      position: absolute;
+      bottom: -35%;
+
+      img {
+        height: 5rem;
+      }
+  }
+
+
+  }
+}

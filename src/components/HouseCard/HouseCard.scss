@@ -1,0 +1,152 @@
+.App {
+  .houseCards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    .card {
+      display: flex;
+      flex-direction: column;
+      padding-top: 1em;
+      width: 49%;
+
+      .cardBody {
+        max-width: 100%;
+
+        .imgContainer {
+          width: 100%;
+
+          position: relative;
+          img {
+            width: 100%;
+            aspect-ratio: 5 / 4;
+            border-radius: 1em;
+          }
+        .controls{
+          .innerCardControls{
+            .favBtn{
+              position: absolute;
+              top: 5%;
+              right: 1%;
+              background: none;
+              border: none;
+              svg{
+                color: white;
+                height: 1.5em;
+              }}}}}
+        .infoContainer {
+          display: flex;
+          justify-content: space-between;
+          .info {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            .location {
+              font-size: 0.9em;
+              padding: 0.2em;
+            }
+            .hostType{
+              font-size: 0.8em;
+              font-weight: lighter;
+              padding: 0.2em;
+            }
+            .booking-date {
+              font-size: 0.8em;
+              font-weight: lighter;
+              padding: 0.2em;
+            }
+            .price {
+              font-size: 0.8em;
+              padding: 0.2em;
+            }
+          }
+        }
+        .rating {
+          display: flex;
+            align-items: center;
+          height: 0.2em;
+          padding-top: 0.7em;
+          svg {
+            height: 0.5em;
+            padding-right: 0.3em;
+          }
+        }
+      }
+
+    }
+    .favorite-card {
+      display: flex;
+      flex-direction: column;
+      padding: 0;
+      padding-bottom: 1em;
+      .cardBody {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        .imgContainer {
+          position: relative;
+          width: 12em;
+          img {
+            width: 100%;
+            height: 8em;
+            border-radius: 1em;
+          }
+          .innerCardControls{
+              .favBtn{
+                position: absolute;
+                top: 5%;
+                right: 1%;
+
+                background: none;
+                border: none;
+                svg{
+                  color: white;
+                  height: 1.2em;
+                }}}}
+        .infoContainer {
+          padding-left: 1em;
+          display: flex;
+          justify-content: space-between;
+          .info {
+            display: flex;
+            align-items: flex-start;
+            flex-direction: column;
+            .location {
+              font-size: 0.9em;
+              padding: 0.2em;
+            }
+            .hostType{
+              font-size: 0.8em;
+              font-weight: lighter;
+              padding: 0.2em;
+            }
+            .booking-date {
+              font-size: 0.8em;
+              font-weight: lighter;
+              padding: 0.2em;
+            }
+
+            .price {
+              font-size: 0.8em;
+              padding: 0.2em;
+            }
+          }
+        }
+        .rating {
+          display: flex;
+          align-items: center;
+          padding-top: 0.35em;
+          height: 0.2em;
+          svg {
+            height: 0.5em;
+            padding-right: 0.3em;
+          }
+        }
+      }
+
+    }
+  }
+  }
+
+

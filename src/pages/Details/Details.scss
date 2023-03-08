@@ -1,0 +1,176 @@
+.App{
+  .details{
+    padding-bottom: 3em;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    .title {
+      font-size: 3em;
+      padding-bottom: 0.5em;
+    }
+    .rating-location-container{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      padding-bottom: 1em;
+
+      svg {
+        padding-right: 0.5em;
+      }
+      .rating {
+        padding-right: 0.5em;
+      }
+      .location {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        font-weight: light;
+        font-size: 1.2em;
+        svg {
+          height: 0.2em;
+          color: lightgray;
+          padding-right: 0.5em
+        }
+      }
+    }
+    .featured-photo {
+      position: relative;
+      display: inline-block;
+      width: 100%;
+      padding-bottom: 0.5em;
+      img {
+        width: 100%;
+        border-radius: 2%;
+      }
+      .controls{
+        .innerCardControls{
+          .favBtn{
+            position: absolute;
+            top: 5%;
+            right: 1%;
+            background: none;
+            border: none;
+            svg{
+              color: white;
+              height: 1.5em;
+            }}}}
+    }
+    .price {
+      font-size: 1.2em;
+      padding-bottom: 0.5em;
+    }
+    .description{
+    #text{
+
+      color: black;
+      font-size: 1em;
+
+    }
+      padding-bottom: 1em;
+    }
+    .features{
+      display: inline-block;
+      padding-bottom: 2em;
+      .available {
+        display: flex;
+        padding-bottom: 1em;
+        img {
+          height: 2em;
+          aspect-ratio: 1 /1;
+          fill: red;
+          background-color: #e9ae9a;
+          padding: 1em;
+          border-radius: 0.5em;
+          margin-right: 1em;
+          filter: invert(1);
+
+      }
+      }
+      .not-available{
+        img{
+          height: 2em;
+          aspect-ratio: 1 /1;
+          fill: red;
+          background-color: #2c2c2c;
+          padding: 1em;
+          border-radius: 0.5em;
+          margin-right: 1em;
+          filter: invert(1);
+
+
+        }
+      }
+    }
+    .about-host{
+      font-size: 2em;
+      padding-bottom: 0.5em;
+    }
+    .host{
+      display: flex;
+      padding-bottom: 1em;
+
+      img {
+        border-radius: 50%;
+        height: 4em;
+      }
+      .host-details {
+       padding-left: 1.5em;
+        .host-name {
+          font-size: 1.5em;
+          padding-bottom: 0.3em;
+        }
+      }
+    }
+    .gallery {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      padding-bottom: 1em;
+      justify-content: space-between;
+      img {
+        padding-bottom: 0.6em;
+        width: 49%;
+        border-radius: 1em;
+      }
+    }
+    .reviews {
+      font-size: 1.5em;
+      padding-bottom: 0.5em;
+
+    }
+
+
+    .review{
+      display: flex;
+      padding-bottom: 0.5em;
+      flex-direction: row;
+      flex-wrap: wrap;
+      img {
+        border-radius: 50%;
+        height: 3em;
+      }
+      .guest-details{
+        align-items: self-start;
+        padding-left: 1.5em;
+        padding-bottom: 1em;
+        .guest-name{
+
+        }
+        .date{
+
+        }
+      }
+    .comment{
+      #text{
+        font-size: 20px;
+      }
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+
+    }
+    }
+
+
+  }
+}

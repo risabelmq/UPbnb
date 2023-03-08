@@ -1,0 +1,29 @@
+.App {
+  .homepage{
+    padding-bottom: 3em;
+    h2{
+      display: flex;
+      justify-content: flex-start;
+      font-size: 2em;
+      color: black;
+      font-weight: normal;
+      margin: 0;
+    }
+    h3 {
+      display: flex;
+      justify-content: flex-start;
+      font-size: 1.5em;
+      color: #9a9a9a;
+      font-weight: normal;
+      margin: 0;
+    }
+    .title{
+      display: flex;
+      justify-content: flex-start;
+      font-size: 1.5em;
+      color: black;
+      font-weight: normal;
+      padding-top: 1em;
+    }
+  }
+}

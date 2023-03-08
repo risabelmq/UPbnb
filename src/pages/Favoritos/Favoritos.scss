@@ -1,0 +1,31 @@
+.App {
+
+  .favorites {
+    width: 100%;
+    padding-bottom: 2em;
+    .header {
+      .heading {
+        display: flex;
+        justify-content: flex-start;
+        font-size: 2em;
+        color: black;
+        padding-bottom: 0.5em;
+      }
+    }
+  }
+  .noFavorites
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .houseCards{
+    .body{
+      .country{
+        font-size: 1.5em;
+        color: black;
+        padding-top: 1em;
+        padding-bottom: 1em;
+      }
+    }
+  }
+}
