@@ -1,4 +1,6 @@
 # UPbnb
+<img width="556" alt="uptubeLogo" src="https://user-images.githubusercontent.com/87763388/223849925-e0363f20-0022-4736-991e-f059d4e770d7.png">
+
 UPbnb is a web application that provides a luxurious house rental service, inspired by Airbnb. 
 
 The frontend of the application is built using React.JS technology and integrated with an existing API.
