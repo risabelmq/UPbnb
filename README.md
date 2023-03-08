@@ -13,7 +13,7 @@ To achieve all this, I employed React components and contexts, and used the reac
 Building this project was a lot of fun! I got to use various npm modules and progressively load information from multiple API endpoints. Sharing information between components using contexts was also an interesting challenge.
 
 Overall, I'm proud of the work I did on UPbnb and I hope you enjoy using it as much as I enjoyed building it!
-<p="center">
+<p align="center">
 <img height="900" width="390" alt="Página inicial" src="https://user-images.githubusercontent.com/87763388/223850596-d1da4d87-d0cd-45e7-bf7b-f018da781818.png">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img height="900" width="390" alt="Catálogo" src="https://user-images.githubusercontent.com/87763388/223850608-16fbe27c-6329-42e8-a9b5-40f24a97d764.png">
