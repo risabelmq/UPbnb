@@ -14,8 +14,8 @@ Building this project was a lot of fun! I got to use various npm modules and pro
 
 Overall, I'm proud of the work I did on UPbnb and I hope you enjoy using it as much as I enjoyed building it!
 <div>
-<img height="800" width="390" alt="Página inicial" src="https://user-images.githubusercontent.com/87763388/223850596-d1da4d87-d0cd-45e7-bf7b-f018da781818.png">
-<img height="800" width="390" alt="Catálogo" src="https://user-images.githubusercontent.com/87763388/223850608-16fbe27c-6329-42e8-a9b5-40f24a97d764.png">
+<img height="1000" width="390" alt="Página inicial" src="https://user-images.githubusercontent.com/87763388/223850596-d1da4d87-d0cd-45e7-bf7b-f018da781818.png">
+<img height="1000" width="390" alt="Catálogo" src="https://user-images.githubusercontent.com/87763388/223850608-16fbe27c-6329-42e8-a9b5-40f24a97d764.png">
 
 </div>
 <img width="390" alt="Detalhe2" src="https://user-images.githubusercontent.com/87763388/223850603-09421384-d3fb-4df3-be48-4e290bef00ce.png">
