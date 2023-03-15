@@ -15,7 +15,15 @@ To access the luxurious houses, I made sure that the application does not store 
 To progressively load information from multiple endpoints of the API, I presented the information as soon as it became available, and no waiting time was necessary. Sharing information between components was also a challenge that I addressed by using contexts to delegate functionalities and share information.
 
 # Web Stack
+Frontend:
+    React.js
+    react-router-dom (version 5)
+    SCSS for styling
+    npm modules for various functionalities (e.g., icons, interaction with API)
 
+Backend:
+    Existing API integrated with frontend
+    
 # Challenges
 As I was developing UPbnb, I faced several challenges that required me to think creatively and work hard to overcome. One of the biggest challenges was handling asynchronous data. When retrieving data from the API, I needed to make sure that the data was available before rendering the corresponding components, which required careful management of asynchronous requests.
 
