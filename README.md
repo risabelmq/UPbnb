@@ -14,9 +14,9 @@ To access the luxurious houses, I made sure that the application does not store 
 
 To progressively load information from multiple endpoints of the API, I presented the information as soon as it became available, and no waiting time was necessary. Sharing information between components was also a challenge that I addressed by using contexts to delegate functionalities and share information.
 
-#Web Stack
+# Web Stack
 
-#Challenges
+# Challenges
 As I was developing UPbnb, I faced several challenges that required me to think creatively and work hard to overcome. One of the biggest challenges was handling asynchronous data. When retrieving data from the API, I needed to make sure that the data was available before rendering the corresponding components, which required careful management of asynchronous requests.
 
 Another challenge was managing state across components. I made use of React's context API to share state between components and manage updates across different parts of the application. This required careful planning to ensure that the application was organized and scalable.
